@@ -3,8 +3,8 @@
 --
 -- Copyright (C) 2016 Sadnan Saquif
 --	Version 1.0
---	Author:	Sadnan Saquif 260499660 
---				Yijie Zhou
+--	Author:	Sadnan Saquif
+--		
 -- Date: November 14, 2016
 library ieee;
 use ieee.std_logic_1164.all;
