@@ -3,8 +3,7 @@
 --
 -- Copyright (C) 2016 Sadnan Saquif
 --	Version 1.0
---	Author:	Sadnan Saquif 260499660 
---				Yijie Zhou
+--	Author:	Sadnan Saquif
 -- Date: October 16, 2016
 
 library ieee;
